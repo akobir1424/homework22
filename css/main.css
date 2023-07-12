@@ -1,0 +1,431 @@
+.hero{
+    margin: 0 auto;
+    position: absolute;
+    top: 10px;
+    left: 200px;
+    width: 1344px;
+height: 523px;
+flex-shrink: 0;
+background-color: hwb(0 100% 0%);
+}
+h1{
+    position: absolute;
+    top: -15px;
+    color: #3A3A3A;
+    cursor: pointer;
+font-family: Futura PT;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 2.6px;
+}
+.hero_img{
+    position: absolute;
+    top: 50px;
+    width: 300px;
+height: 300px;
+flex-shrink: 0;
+border-radius: 15px 15px 0px 0px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.hero_a{
+    position: absolute;
+    top: 370px;
+    color: #3A3A3A;
+font-family: Futura PT;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+}
+.hero_p{
+    position: absolute;
+    top: 400px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_p_1{
+    position: absolute;
+    top: 400px;
+    left: 250px;
+    display: flex;
+width: 28px;
+height: 21px;
+flex-direction: column;
+flex-shrink: 0;
+color: #BABABA;
+text-align: right;
+font-family: Futura PT;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_img_1{
+    position: absolute;
+    top: 415px;
+    left: 280px;
+    width: 20px;
+height: 20px;
+flex-shrink: 0;
+}
+.hero_h2{
+    position: absolute;
+    top: 450px;
+    color: #3A3A3A;
+    cursor: pointer;
+font-family: Futura PT;
+font-size: 24px;
+font-style: normal;
+font-weight: 450;
+line-height: normal;
+}
+.hero_p_2{
+    position: absolute;
+    top: 465px;
+    left: 100px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_img_2{
+    position: absolute;
+    top: 50px;
+    left: 340px;
+    width: 300px;
+height: 300px;
+flex-shrink: 0;
+border-radius: 15px 15px 0px 0px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.hero_a_1{
+    position: absolute;
+    top: 370px;
+    left: 340px;
+    color: #3A3A3A;
+font-family: Futura PT;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+}
+.hero_p_3{
+    position: absolute;
+    top: 400px;
+    left: 340px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_p_4{
+    position: absolute;
+    top: 400px;
+    left: 590px;
+    display: flex;
+width: 28px;
+height: 21px;
+flex-direction: column;
+flex-shrink: 0;
+color: #BABABA;
+text-align: right;
+font-family: Futura PT;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_img_5{
+    position: absolute;
+    top: 415px;
+    left: 620px;
+    width: 20px;
+height: 20px;
+flex-shrink: 0;
+}
+.hero_h3{
+    position: absolute;
+    top: 445px;
+    left: 340px;
+    color: #3A3A3A;
+    cursor: pointer;
+font-family: Futura PT;
+font-size: 24px;
+font-style: normal;
+font-weight: 450;
+line-height: normal; 
+}
+.hero_p_5{
+    position: absolute;
+    top: 465px;
+    left: 450px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_img_3{
+    position: absolute;
+    top: 50px;
+    left: 680px;
+    width: 300px;
+height: 300px;
+flex-shrink: 0;
+border-radius: 15px 15px 0px 0px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.hero_a_2{
+    position: absolute;
+    top: 370px;
+    left: 680px;
+    color: #3A3A3A;
+font-family: Futura PT;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+}
+.hero_p_6{
+    position: absolute;
+    top: 400px;
+    left: 680px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_p_7{
+    position: absolute;
+    top: 400px;
+    left: 930px;
+    display: flex;
+width: 28px;
+height: 21px;
+flex-direction: column;
+flex-shrink: 0;
+color: #BABABA;
+text-align: right;
+font-family: Futura PT;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal; 
+}
+.hero_img_6{
+    position: absolute;
+    top: 415px;
+    left: 960px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_h4{
+    position: absolute;
+    top: 445px;
+    left: 680px;
+    color: #3A3A3A;
+    cursor: pointer;
+font-family: Futura PT;
+font-size: 24px;
+font-style: normal;
+font-weight: 450;
+line-height: normal; 
+}
+.hero_p_8{
+    position: absolute;
+    top: 465px;
+    left: 790px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_img_7{
+    position: absolute;
+    top: 50px;
+    left: 1020px;
+    width: 300px;
+height: 300px;
+flex-shrink: 0;
+border-radius: 15px 15px 0px 0px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.hero_img_9{
+    position: absolute;
+    top: 180px;
+    left: 1300px;
+    width: 48px;
+height: 48px;
+flex-shrink: 0;
+}
+.hero_a_3{
+    position: absolute;
+    top: 370px;
+    left: 1020px;
+    color: #3A3A3A;
+font-family: Futura PT;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+}
+.hero_p_9{
+    position: absolute;
+    top: 400px;
+    left: 1025px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_p_10{
+    position: absolute;
+    top: 400px;
+    left: 1260px;
+    display: flex;
+width: 28px;
+height: 21px;
+flex-direction: column;
+flex-shrink: 0;
+color: #BABABA;
+text-align: right;
+font-family: Futura PT;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal; 
+}
+.hero_img_8{
+    position: absolute;
+    top: 415px;
+    left: 1295px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero_h5{
+    position: absolute;
+    top: 445px;
+    left: 1025px;
+    color: #3A3A3A;
+    cursor: pointer;
+font-family: Futura PT;
+font-size: 24px;
+font-style: normal;
+font-weight: 450;
+line-height: normal; 
+}
+.hero_p_11{
+    position: absolute;
+    top: 465px;
+    left: 1140px;
+    color: #BABABA;
+font-family: Futura PT;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;  
+}
+.heppo{
+    margin: 0 auto;
+    position: absolute;
+    top: 600px;
+    left: 200px;
+    width: 1344px;
+height: 523px;
+flex-shrink: 0;
+background-color: hwb(0 100% 0%);
+}
+.name{
+    margin: 0 auto;
+    position: absolute;
+    top: 1200px;
+    left: 200px;
+    width: 1344px;
+height: 423px;
+flex-shrink: 0;
+background-color: #F4EBCF;
+}
+p{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    display: flex;
+/* width: 136px; */
+height: 47.85px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #3A3A3A;
+font-family: Futura PT;
+font-size: 34px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+h1{
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    display: flex;
+/* max-width: 882px; */
+height: 240.338px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #3A3A3A;
+font-family: verdana;
+font-size: 40px;
+font-style: normal;
+font-weight: 450;
+line-height: normal;
+}
+.name_img{
+    position: absolute;
+    top: 130px;
+    left: 950px;
+    width: 245px;
+height: 245px;
+flex-shrink: 0;
+/* background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25); */
+}
+.name_img_1{
+    position: absolute;
+    top: 155px;
+    left: 980px;
+    width: 190px;
+height: 190px;
+flex-shrink: 0;
+}
+
+
+
