@@ -1,4 +1,4 @@
-.hero{
+ .hero{
     margin: 0 auto;
     position: absolute;
     top: 10px;
@@ -391,7 +391,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
-h1{
+.name_h1{
     position: absolute;
     top: 40px;
     left: 50px;
